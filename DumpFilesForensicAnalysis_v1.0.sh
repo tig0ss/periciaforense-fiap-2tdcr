@@ -1,6 +1,8 @@
 #!/bin/bash
 
-#inicializa as variaveis
+# name:   DumpFilesForensicAnalysis_v1.0.sh
+# since:  2019-04-20 - Brazil
+# author: Tiago S. de Santana
 
 #### FUNCOES
 
